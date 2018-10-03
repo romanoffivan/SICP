@@ -1,4 +1,4 @@
-# lang racket/base
+#lang racket/base
 
 (define (rectangle-perimeter rectangle) 
   (* 2 (+ (rectangle-width rectangle) 
